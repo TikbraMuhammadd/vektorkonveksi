@@ -9,10 +9,10 @@
 
 <channel>
 	<title>Vektor Konveksi</title>
-	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
-	<link></link>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
 	<description>BIKIN KAOS JAKET BAJU SEMARANG</description>
-	<lastBuildDate>Thu, 08 Aug 2024 17:04:50 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 08 Aug 2024 19:16:00 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
